@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "3.3.0",
+    "baseName": "jhipster",
+    "packageName": "org.jhipster",
+    "packageFolder": "org/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "buildTool": "maven",
+    "enableSocialSignIn": true,
+    "rememberMeKey": "2c63045633c36d3d3c7211f4955abc76e231c27e",
+    "useSass": false,
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "cucumber",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
